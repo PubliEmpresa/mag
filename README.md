@@ -1,0 +1,2 @@
+# mag
+GitHub Pages
